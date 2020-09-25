@@ -6,13 +6,13 @@ body {
   }
   
   header {
-    background-color:#ee8282;
+    background-color:#ee5353;
     text-align: center;
-    border-radius: 10px;  
+    border-radius: 10px;
+    color: whitesmoke;   
   }
   
-  img {
-    float: right;
+  img { 
     width: 160px;
     border-radius: 20px;
   }
@@ -20,8 +20,10 @@ body {
   h1 {
     font-size: 35px;
     padding: 10px;
+    
   }
-  
+
+ 
   h2 {
     border-bottom: 5px solid;
   }
@@ -41,7 +43,7 @@ body {
   }
   
   footer {
-    background-color: #ee8282;
+    background-color: #ee5353;
     color: black;
     text-align: center;
     border-radius: 7px;

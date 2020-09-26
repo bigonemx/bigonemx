@@ -9,7 +9,7 @@ body {
     background-color:#ee5353;
     text-align: center;
     border-radius: 10px;
-    color: whitesmoke;   
+    color: #f5f5f5;   
   }
   
   img { 
@@ -39,12 +39,12 @@ body {
   }
   
   main a:hover {
-    color: blue;
+    color: #0000ff;
   }
   
   footer {
     background-color: #ee5353;
-    color: black;
+    color: #000000;
     text-align: center;
     border-radius: 7px;
     padding-top: 15px;
@@ -53,9 +53,9 @@ body {
   }
   
   footer a {
-    color: blue;
+    color: #ffff00;
   }
   
   footer a:hover {
-    color: white;
+    color: #ffffff;
   }

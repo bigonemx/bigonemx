@@ -1,0 +1,27 @@
+body {
+	font-size: 20px;
+	/* font-family: Lucida Handwriting; */
+}
+
+header {
+	background-color: yellow;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 30px;
+	line-height: .75;
+	margin: .5rem;
+	border-radius: 5px;
+}
+
+footer {
+	background-color: yellow;
+	color:  rgba(7, 153, 2, 0.842);
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	line-height: 1.5;
+	margin: .5rem;
+    border-radius: 5px;
+    font-family: monospace;
+    font-size: 1.13em;
+}
